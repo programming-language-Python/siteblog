@@ -21,3 +21,4 @@ sqlparse==0.4.2
 tzdata==2022.1
 Werkzeug==2.0.3
 whitenoise==6.0.0
+python-decouple==3.6
