@@ -26,6 +26,7 @@ Werkzeug = "*"
 whitenoise = "*"
 dj-database-url = "*"
 psycopg2 = "*"
+python-decouple = "*"
 
 [dev-packages]
 
